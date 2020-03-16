@@ -2,6 +2,8 @@
 :: clr.bat                                         ::
 :: Purpose:                                        ::
 :: removes all temporary system and user files     ::
+:: then force ip address renewal, update the local ::
+:: group policy, and force a system restart        ::
 :: ================================================::
 @echo off
 :: clearing windows temp folders
